@@ -10,3 +10,6 @@ Chaque tâche de développement, de conception et de gestion de projet est liée
 Suivi des Modifications :
 
 Chaque modification apportée au projet est enregistrée dans des commits. Cela permet de suivre l'historique des changements, de connaître la progression du développement et de faciliter la compréhension.
+
+Lien utiles : 
+Trello workspace : https://trello.com/invite/b/z4Wx6z4j/ATTI303559d46dbb591dbf5ecbc4f16dffcd92A7599D/uml-project
