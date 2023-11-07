@@ -9,4 +9,4 @@ Chaque tâche de développement, de conception et de gestion de projet est liée
 
 Suivi des Modifications :
 
-Chaque modification apportée au code source est enregistrée dans des commits, avec des commentaires des développeurs. Cela permet de suivre l'historique des changements, de connaître la progression du développement et de faciliter la rétro-ingénierie en cas de besoin.
+Chaque modification apportée au projet est enregistrée dans des commits. Cela permet de suivre l'historique des changements, de connaître la progression du développement et de faciliter la compréhension.
